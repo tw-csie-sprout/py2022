@@ -1,6 +1,6 @@
 # 課程講義
 
-- 北區課程側錄
+- [北區課程側錄](https://youtube.com/playlist?list=PLp5kjMAmhp-8FXyIUTe5rJSyq1rVzIZS6)
 - [竹區課程側錄](https://youtube.com/playlist?list=PLp5kjMAmhp--mxJZhJqW3Ui349pgkNro9)
 
 ## 第一階段投影片
