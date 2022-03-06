@@ -1,5 +1,5 @@
 [首頁](index.md)
 [課程講義](slides.md)
 [作業與練習](homework.md)
-[Discord Register](https://discord.com)
+[Discord Server](https://discord.gg/f3jAZSBy)
 [Online Judge](https://neoj.sprout.tw/)
