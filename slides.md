@@ -2,6 +2,7 @@
 
 - 北區課程側錄
 - [竹區課程側錄](https://youtube.com/playlist?list=PLp5kjMAmhp--mxJZhJqW3Ui349pgkNro9)
+
 ## 第一階段投影片
 
 ### Week 1 (03/06)
