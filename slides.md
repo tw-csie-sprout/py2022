@@ -24,7 +24,7 @@
 ### Week 3 (03/20)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-|For迴圈|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq)|｜
+|For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq)|NIL|
 
 <!-- ## 第二階段投影片
 
