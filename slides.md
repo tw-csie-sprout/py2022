@@ -20,11 +20,10 @@
 | 邏輯判斷、if | [Slide (HackMD)](https://hackmd.io/@namwoam/SkZY8H3xc) | [Slide](https://drive.google.com/file/d/1a8dGabkhqx32At9qUpyPU-UyZxcSfpR9/view?usp=sharing) |
 | 迴圈、while | [Slide (HackMD)](https://hackmd.io/@Ev0n9YKlTzCKhedHrgZ2zw/HJ8sZsdl5#/) | [Slide](https://drive.google.com/file/d/1cYFqZt7jvaV-u-O4p_3jIVZVt_twR22O/view?usp=sharing) |
 
-
 ### Week 3 (03/20)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-|For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq)|NIL|
+|For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq)| [Slide](https://drive.google.com/file/d/1Ei2R1nJqbeRZeyjD5ozBjHV_bejxwHD7/view?usp=sharing)  |
 | List | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HJQ2BDLZc#/)|NIL|
 
 <!-- ## 第二階段投影片
