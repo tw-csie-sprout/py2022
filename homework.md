@@ -8,6 +8,7 @@
 | :---: | :--: | :---- | :---- | :----- | :-- |
 | 03/06 | 01   | [3000](https://neoj.sprout.tw/problem/3000) | [3007](https://neoj.sprout.tw/problem/3007)、[3008](https://neoj.sprout.tw/problem/3008)、[3009](https://neoj.sprout.tw/problem/3009) | | |
 | 03/13 | 02   | [3010](https://neoj.sprout.tw/problem/3010)、[3011](https://neoj.sprout.tw/problem/3011)、[3020](https://neoj.sprout.tw/problem/3020/)、[3089](https://neoj.sprout.tw/problem/3089/) | [3401](https://neoj.sprout.tw/problem/3401)、[3402](https://neoj.sprout.tw/problem/3402)、[3019](https://neoj.sprout.tw/problem/3019)、[3087](https://neoj.sprout.tw/problem/3087) | | |
+| 03/20 | 03   | [3020](https://neoj.sprout.tw/problem/3020)、[3088](https://neoj.sprout.tw/problem/3088) | [3031](https://neoj.sprout.tw/problem/3031) | | |
 
 ## 第二階段
 
