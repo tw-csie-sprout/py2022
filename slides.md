@@ -25,7 +25,7 @@
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 |For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq)|NIL|
-
+|List|Slide|[Slide](https://drive.google.com/file/d/1GDzlJfREVCUkLPVdTwJznxCYucGfZ009/view?usp=sharing)|
 <!-- ## 第二階段投影片
 
 | 主題 | 北區 | 竹區 |
