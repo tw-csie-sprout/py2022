@@ -23,8 +23,8 @@
 ### Week 3 (03/20)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-|For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq)| [Slide](https://drive.google.com/file/d/1Ei2R1nJqbeRZeyjD5ozBjHV_bejxwHD7/view?usp=sharing)  |
-| List | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HJQ2BDLZc#/)|NIL|
+|For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq) | [Slide](https://drive.google.com/file/d/1Ei2R1nJqbeRZeyjD5ozBjHV_bejxwHD7/view?usp=sharing)  |
+| List | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HJQ2BDLZc#/) | [Slide](https://drive.google.com/file/d/1GDzlJfREVCUkLPVdTwJznxCYucGfZ009/view?usp=sharing) |
 
 <!-- ## 第二階段投影片
 
