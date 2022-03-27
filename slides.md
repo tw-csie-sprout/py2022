@@ -26,6 +26,12 @@
 |For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq) | [Slide](https://drive.google.com/file/d/1Ei2R1nJqbeRZeyjD5ozBjHV_bejxwHD7/view?usp=sharing)  |
 | List | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HJQ2BDLZc#/) | [Slide](https://drive.google.com/file/d/1GDzlJfREVCUkLPVdTwJznxCYucGfZ009/view?usp=sharing) |
 
+### Week 3 (03/20)
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| String |[Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/Sk6EBQq-9) |  |
+| Dictionary |  | [Slide](https://www.canva.com/design/DAE8DVyfvXs/6nxFt6Cc7RuMcTfeN1GhQg/view) |
+
 <!-- ## 第二階段投影片
 
 | 主題 | 北區 | 竹區 |
