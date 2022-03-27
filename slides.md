@@ -29,7 +29,7 @@
 ### Week 4 (03/27)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| String |[Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/Sk6EBQq-9) |  |
+| String |[Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/Sk6EBQq-9) | [Slide](https://drive.google.com/file/d/1IZrW3x4P-frqaQxZ4GMz9qJgD4uUII-c/view?usp=sharing) |
 | Dictionary | [Slide](https://hackmd.io/@s3131212/SJNNHS2bc#/) | [Slide](https://www.canva.com/design/DAE8DVyfvXs/6nxFt6Cc7RuMcTfeN1GhQg/view) |
 
 <!-- ## 第二階段投影片
