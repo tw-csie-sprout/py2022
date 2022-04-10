@@ -23,19 +23,19 @@
 ### Week 3 (03/20)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-|For、range、可迭代|[Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq) | [Slide](https://drive.google.com/file/d/1Ei2R1nJqbeRZeyjD5ozBjHV_bejxwHD7/view?usp=sharing)  |
+| For、range、可迭代 | [Slide (HackMD)](https://hackmd.io/@YuKai0928/ryyctU5Jq) | [Slide](https://drive.google.com/file/d/1Ei2R1nJqbeRZeyjD5ozBjHV_bejxwHD7/view?usp=sharing)  |
 | List | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HJQ2BDLZc#/) | [Slide](https://drive.google.com/file/d/1GDzlJfREVCUkLPVdTwJznxCYucGfZ009/view?usp=sharing) |
 
 ### Week 4 (03/27)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| String |[Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/Sk6EBQq-9) | [Slide](https://drive.google.com/file/d/1IZrW3x4P-frqaQxZ4GMz9qJgD4uUII-c/view?usp=sharing) |
+| String | [Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/Sk6EBQq-9) | [Slide](https://drive.google.com/file/d/1IZrW3x4P-frqaQxZ4GMz9qJgD4uUII-c/view?usp=sharing) |
 | Dictionary | [Slide](https://hackmd.io/@s3131212/SJNNHS2bc#/) | [Slide](https://www.canva.com/design/DAE8DVyfvXs/6nxFt6Cc7RuMcTfeN1GhQg/view) |
 
 ### Week 5 (04/10)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Function |[Slide](https://docs.google.com/presentation/d/1iT08gOXXwYGPkIHC9I8Ik8xR_8tsHdo3MhtOFatpyqo/edit?usp=sharing) | [Slide](https://drive.google.com/file/d/1y8zAjZf3go_CiZ6g_jgbed7puKHcbLli/view?usp=sharing) |
+| Function | [Slide](https://docs.google.com/presentation/d/1iT08gOXXwYGPkIHC9I8Ik8xR_8tsHdo3MhtOFatpyqo/edit?usp=sharing) | [Slide](https://drive.google.com/file/d/1y8zAjZf3go_CiZ6g_jgbed7puKHcbLli/view?usp=sharing) |
 | 大作業 | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) |
 
 <!-- ## 第二階段投影片
