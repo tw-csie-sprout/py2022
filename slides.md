@@ -35,7 +35,8 @@
 ### Week 5 (04/10)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Function | | [Slide](https://drive.google.com/file/d/1y8zAjZf3go_CiZ6g_jgbed7puKHcbLli/view?usp=sharing) |
+| Function |[Slide](https://docs.google.com/presentation/d/1iT08gOXXwYGPkIHC9I8Ik8xR_8tsHdo3MhtOFatpyqo/edit?usp=sharing) | [Slide](https://drive.google.com/file/d/1y8zAjZf3go_CiZ6g_jgbed7puKHcbLli/view?usp=sharing) |
+| 大作業 | [Slide (HackMD)](https://hackmd.io/tx6LyX4_QDSqeH3OqGhYUQ) | [Slide (HackMD)](https://hackmd.io/tx6LyX4_QDSqeH3OqGhYUQ) |
 
 <!-- ## 第二階段投影片
 
