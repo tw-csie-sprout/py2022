@@ -36,7 +36,13 @@
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Function | [Slide](https://docs.google.com/presentation/d/1iT08gOXXwYGPkIHC9I8Ik8xR_8tsHdo3MhtOFatpyqo/edit?usp=sharing) | [Slide](https://drive.google.com/file/d/1y8zAjZf3go_CiZ6g_jgbed7puKHcbLli/view?usp=sharing) |
-| 大作業 | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) |
+| 大作業介紹 | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) |
+
+### Week 6 (04/17)
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Module |  | [Slide (HackMD)](https://hackmd.io/@Sean64/py-module) |
+| 大作業練習 | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) |
 
 <!-- ## 第二階段投影片
 
