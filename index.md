@@ -32,7 +32,7 @@ A: 可以清除 cookie 或是開啟無痕模式試試。
 | 05   | 0410 | 大作業公布 | function                                           |
 | 06   | 0417 |            | import、大作業練習                                 |
 | 07   | 0424 |            | 簡單衛教（error handling、coding style ）、複習    |
-| 08   | 0501 |            | 考試                                               |
+| 08   | 0501 | 大作業 Deadline | 考試                                               |
 
 ### 第二階段
 
