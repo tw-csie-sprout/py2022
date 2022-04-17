@@ -41,7 +41,7 @@
 ### Week 6 (04/17)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Module |  | [Slide (HackMD)](https://hackmd.io/@Sean64/py-module) |
+| Module | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/r1LyLfiZ5?fbclid=IwAR2kvIWb-l5nYdAR_wIT_Qvu34UYkxzEXQ5vPDb45hyLrV8XVBDkNCiXr9Q#/) | [Slide (HackMD)](https://hackmd.io/@Sean64/py-module) |
 | 大作業練習 | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) |
 
 <!-- ## 第二階段投影片
