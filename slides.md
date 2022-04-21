@@ -44,6 +44,12 @@
 | Module | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/r1LyLfiZ5?fbclid=IwAR2kvIWb-l5nYdAR_wIT_Qvu34UYkxzEXQ5vPDb45hyLrV8XVBDkNCiXr9Q#/) | [Slide (HackMD)](https://hackmd.io/@Sean64/py-module) |
 | 大作業練習 | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) | [Slide (HackMD)](https://hackmd.io/@t510599/HktkEgCGq) |
 
+### Week 7 (04/24)
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| 簡單衛教 |  |  |
+| 複習 |  | [Slide](https://drive.google.com/file/d/18vNZBmb7Xz4MigBan4yGAPRpOsq0-dgU/view?usp=sharing) |
+
 <!-- ## 第二階段投影片
 
 | 主題 | 北區 | 竹區 |
