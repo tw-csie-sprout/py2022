@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+kramdown:
+  hard_wrap: true
+
+navbar_items:
+- title: 首頁
+  url: .
+- title: 課程講義
+  url: slides
+- title: 作業與練習
+  url: homework
+- title: Online Judge
+  url: https://neoj.sprout.tw/

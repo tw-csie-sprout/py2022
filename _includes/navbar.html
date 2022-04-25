@@ -1,0 +1,11 @@
+<div id="md-main-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation" style="padding: 0 16px;">
+	<div class="collapse navbar-collapse navbar-ex1-collapse">
+		<ul class="nav navbar-nav">
+			{% for item in site.navbar_items %}{% assign file = (item.url | prepend: '/' | append: '.html') %}
+				<li class="{% if (page.url == file) or ((page.url == '/') and (item.url == '.')) %} active {% endif %}">
+					<a href="{{ item.url }}">{{ item.title }}</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>

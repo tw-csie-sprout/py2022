@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>2022 年資訊之芽 Python 班課程網站</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+	<div id="md-all">
+		<div id="md-menu">
+			{% include navbar.html %}
+		</div>
+		<div class="container" id="md-body-container">
+			<div class="row" id="md-body-row">
+				<div id="md-body" style="margin-top: 60px;">
+					<div class="container" id="md-content-container">
+						<div class="row" id="md-content-row">
+							<div id="md-content" class="col-md-12">
+								{{ content }}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr style="position: relative; margin-top: 1em;">
+		<div class="scontainer" style="position: relative; margin-top: 1em;">
+			<div class="pull-right md-copyright-footer">
+				<span id="md-footer-additional">
+				</span>
+				本網站著作由資訊之芽團隊擁有，係採用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">創用 CC 姓名標示-非商業性-禁止改作 4.0 國際 授權條款</a> 授權公眾使用。
+			</div>
+		</div>
+	</div>
+	<!-- JavaScript frameworks -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
