@@ -47,8 +47,8 @@
 ### Week 7 (04/24)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| 簡單衛教 |  |  |
-| 複習 |  | [Slide](https://drive.google.com/file/d/18vNZBmb7Xz4MigBan4yGAPRpOsq0-dgU/view?usp=sharing) |
+| 衛教 | [Slide](https://hackmd.io/@s3131212/Byn1cA5Ec#/) | [Slide](https://drive.google.com/file/d/1BDTrtnl0KN22IxdY0awTctIBwbVfyzSk/view?usp=sharing) |
+| Review | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/r1LyyItEq#/) | [Slide](https://drive.google.com/file/d/18vNZBmb7Xz4MigBan4yGAPRpOsq0-dgU/view?usp=sharing) |
 
 <!-- ## 第二階段投影片
 
