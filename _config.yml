@@ -9,5 +9,3 @@ navbar_items:
   url: slides
 - title: 作業與練習
   url: homework
-- title: Online Judge
-  url: https://neoj.sprout.tw/
