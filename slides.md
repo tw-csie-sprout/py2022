@@ -51,7 +51,7 @@
 | Review | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/r1LyyItEq#/) | [Slide](https://drive.google.com/file/d/18vNZBmb7Xz4MigBan4yGAPRpOsq0-dgU/view?usp=sharing) |
 
 ## 第二階段投影片
-### Week 9 (05/07)
+### Week 9 (05/08)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | 課程介紹 | [Slide](https://docs.google.com/presentation/d/13Ud70OctfKSkmY-XU47eXyw7pjchCLyb/edit?usp=sharing&ouid=100785010480859799745&rtpof=true&sd=true) | [Slide](https://drive.google.com/file/d/1reqPU6QjTCPCNnLOGVWqLwM1pKJe2d_-/view?usp=sharing) |
