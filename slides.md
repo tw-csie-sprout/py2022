@@ -66,5 +66,5 @@
 ### Week11 (05/22)
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| File I/O | [Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HyrcgnQU9#/)| [Slide](https://drive.google.com/file/d/1toh67mIvuE7YkIeuLVMjWRitn4f1a2OM/view?usp=sharing) |
+| File I/O | [Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HyrcgnQU9#/)| [Slide](https://drive.google.com/file/d/1toh67mIvuE7YkIeuLVMjWRitn4f1a2OM/view?usp=sharing)、[sample code](https://drive.google.com/file/d/1xaCQlilK_BvJUoKXa2IzxF6xt3KkIurn/view) |
 | Crawling (requests) | | [Slide](https://drive.google.com/file/d/1C21TxRftHHtRrWeswCoVKeWqiO-JFO1z/view?usp=sharing) |
