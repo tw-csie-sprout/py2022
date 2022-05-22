@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "課程大綱"
 ---
 ## 關於課程網頁的一些 FAQ
 

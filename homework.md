@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "課程作業"
 ---
 # 課程作業
 

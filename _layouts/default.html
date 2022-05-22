@@ -1,12 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh_TW">
 <head>
 	<meta charset="UTF-8">
-	<title>2022 年資訊之芽 Python 班課程網站</title>
+	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- icons -->
 	<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
 	<link rel="apple-touch-icon" href="{{ site.url }}/apple-touch-icon.png">
 	<link rel="manifest" href="{{ site.url }}/manifest.webmanifest">
+	<!-- for social media -->
+	<meta property="og:url" content="{{ site.url }}{{ page.url | remove: '.html' }}">
+	<meta property="og:site_name" content="{{ site.title }}" />
+	<meta property="og:image" content="{{ site.url }}/logo.png" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<link rel="canonical" href="{{ site.url }}{{ page.url | remove: '.html'}}">
+	<!-- style sheet -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="{{ site.url }}/css/main.css">
 </head>

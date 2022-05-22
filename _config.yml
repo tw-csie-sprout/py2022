@@ -2,6 +2,10 @@ theme: jekyll-theme-minimal
 kramdown:
   hard_wrap: true
 
+title: "2022 資訊之芽 Python 語法班"
+description: "想知道軟體工程師是怎麼讓外表單一的硬體執行各種實用的 APP、顯示溫暖人心的多媒體，甚至精彩刺激的遊戲嗎？程式語言是人類和硬體溝通的管道、是邏輯思考和真實世界的橋樑。透過特定格式與邏輯的描述，讓電腦一步步讀懂你的心思，打造出屬於你的無限可能！"
+url: "https://sprout.tw/py2022"
+
 navbar_items:
 - title: 首頁
   url: .

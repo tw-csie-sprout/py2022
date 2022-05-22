@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "課程講義"
 ---
 # 課程講義
 
