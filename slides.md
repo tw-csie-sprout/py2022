@@ -91,3 +91,10 @@ title: "課程講義"
 | --- | --- | --- |
 | File I/O | [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/HyrcgnQU9#/)| [Slide](https://drive.google.com/file/d/1toh67mIvuE7YkIeuLVMjWRitn4f1a2OM/view?usp=sharing)、[Sample code](https://drive.google.com/file/d/1xaCQlilK_BvJUoKXa2IzxF6xt3KkIurn/view) |
 | Crawling (requests) | [Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/HkwnxrCIc) | [Slide](https://drive.google.com/file/d/1C21TxRftHHtRrWeswCoVKeWqiO-JFO1z/view?usp=sharing) |
+
+### Week 12 (05/29)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| 爬蟲 | [Slide](https://drive.google.com/file/d/1kqmvaJPH0viDMrrn3ZB2y45906jSxZnx/view?usp=sharing) | |
