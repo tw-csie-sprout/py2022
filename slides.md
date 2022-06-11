@@ -99,3 +99,11 @@ title: "課程講義"
 | --- | --- | --- |
 | 爬蟲 | [Slide](https://drive.google.com/file/d/1kqmvaJPH0viDMrrn3ZB2y45906jSxZnx/view) | [Slide (HackMD)](https://hackmd.io/@pcchou/sprout-0522) |
 | Selenium | 同上 | [Slide](https://drive.google.com/file/d/1HrBPCGuSJqxx2r-v3Ez3cxUAmSqN4Waf/view) |
+
+### Week 13 (06/12)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Discord Bot |  | [Slide (HackMD)](https://hackmd.io/@Sean64/dc-bot) |
+| 大作業 Setup |  |  |
