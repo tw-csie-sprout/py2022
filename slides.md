@@ -106,4 +106,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Discord Bot |  | [Slide (HackMD)](https://hackmd.io/@Sean64/dc-bot) |
-| 大作業 Setup |  |  |
+| 大作業 Setup |  | [Slide](https://drive.google.com/file/d/1gUcUSxjU9emANvrK3EoCeyWHVHojHTTA/view) |
