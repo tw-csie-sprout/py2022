@@ -114,4 +114,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Numpy/Matplotlib | [Slide (HackMD)](https://hackmd.io/@YuKai0928/SJs5AYnxq#/) | [Slide](https://drive.google.com/file/d/1C4BjC5VxoARqiEg7oIkfkwvsg0MF471B/view?usp=sharing) |
-| 影像處理 (Pillow) | [Slide (HackMD)](https://hackmd.io/@Ev0n9YKlTzCKhedHrgZ2zw/S1viEDwK9#/) |  |
+| 影像處理 (Pillow) | [Slide (HackMD)](https://hackmd.io/@Ev0n9YKlTzCKhedHrgZ2zw/S1viEDwK9#/) | [Slide (HackMD)](https://hackmd.io/@Z_ZMXd6ISlObZMLPsr_6WA/S17eunjtc#/) |
