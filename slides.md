@@ -122,4 +122,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | 初探算法 |  | [Slide](https://drive.google.com/file/d/15ESBfH3JaRUOPFs4kaDVOsddegQaFrs0/view?usp=sharing) |
-| 未來展望 |  |  |
+| 未來展望 |  | [Slide (HackMD)](https://github.com/tw-csie-sprout/py2022.git) |
