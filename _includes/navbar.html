@@ -1,30 +1,28 @@
 <div id="md-main-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation" style="padding: 0 16px;">
-	<div class="collapse navbar-collapse navbar-ex1-collapse">
-		<ul class="nav navbar-nav">
-			{% for item in site.navbar_items %}{% assign file = (item.url | prepend: '/' | append: '.html') %}
-				<li class="{% if (page.url == file) or ((page.url == '/') and (item.url == '.')) %} active {% endif %}">
-					<a href="{{ item.url }}">{{ item.title }}</a>
-				</li>
-			{% endfor %}
-
-			<li class="dropdown">
-				<a class="dropdown-toggle" data-toggle="dropdown" >相關連結 <span class="caret"></span></a>
-				<ul class="dropdown-menu">
-					<li><a target="_blank" href="https://neoj.sprout.tw/group/45/">Online Judge</a></li>
-					<li><a target="_blank" href="/spt/">資訊之芽官網</a></li>
-					<li><a target="_blank" href="/c2022/">C 語法班</a></li>
-					<li><a target="_blank" href="/algo2022/">Algo 算法班</a></li>
-				</ul>
+	<ul class="nav navbar-nav">
+		{% for item in site.navbar_items %}{% assign file = (item.url | prepend: '/' | append: '.html') %}
+			<li class="{% if (page.url == file) or ((page.url == '/') and (item.url == '.')) %} active {% endif %}">
+				<a href="{{ item.url }}">{{ item.title }}</a>
 			</li>
+		{% endfor %}
 
-			<li class="dropdown">
-				<a class="dropdown-toggle" data-toggle="dropdown">歷年課程 <span class="caret"></span></a>
-				<ul class="dropdown-menu">
-					{% for year in (2016..2021) reversed %}
-						<li><a target="_blank" href="/py{{ year }}/">Python {{ year }}</a></li>
-					{% endfor %}
-				</ul>
-			</li>
-		</ul>
-	</div>
+		<li class="dropdown">
+			<a class="dropdown-toggle" data-toggle="dropdown" >相關連結 <span class="caret"></span></a>
+			<ul class="dropdown-menu">
+				<li><a target="_blank" href="https://neoj.sprout.tw/group/45/">Online Judge</a></li>
+				<li><a target="_blank" href="/spt/">資訊之芽官網</a></li>
+				<li><a target="_blank" href="/c2022/">C 語法班</a></li>
+				<li><a target="_blank" href="/algo2022/">Algo 算法班</a></li>
+			</ul>
+		</li>
+
+		<li class="dropdown">
+			<a class="dropdown-toggle" data-toggle="dropdown">歷年課程 <span class="caret"></span></a>
+			<ul class="dropdown-menu">
+				{% for year in (2016..2023) reversed %}
+					<li><a target="_blank" href="/py{{ year }}/">Python {{ year }}</a></li>
+				{% endfor %}
+			</ul>
+		</li>
+	</ul>
 </div>
