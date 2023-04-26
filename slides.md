@@ -75,7 +75,7 @@ title: "課程講義"
 | --- | --- | --- |
 | 課程介紹 | [Slide](https://docs.google.com/presentation/d/13Ud70OctfKSkmY-XU47eXyw7pjchCLyb/view) | [Slide](https://drive.google.com/file/d/1reqPU6QjTCPCNnLOGVWqLwM1pKJe2d_-/view) |
 | Class | [Slide (HackMD)](https://hackmd.io/@YuKai0928/ryJtWWUb9) | [Slide](https://drive.google.com/file/d/1lBI-jRCEmwpblQDamVtzmQoq5Z4POQyT/view) |
-| Git | [Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/BkEB1J_rc) | [Slide (HackMD)](https://hackmd.io/@Sean64/git) |
+| Git | [Slide (HackMD)](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/BkEB1J_rc) | [Slide (HackMD)](https://hackmd.io/@Sean64/git-sprout2022) |
 
 ### Week 10 (05/15)
 
